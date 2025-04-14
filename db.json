@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Sofa"
+    },
+    {
+      "id": "2",
+      "name": "Bàn"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Sofa Góc L",
+      "price": "50",
+      "image": "https://noithatami.com/wp-content/uploads/2020/11/1-2.jpg",
+      "description": "Sofa cao cấp",
+      "idCate": "1"
+    },
+    {
+      "id": "2",
+      "name": "Giường tầng",
+      "price": "70",
+      "image": "https://noithatmanhhe.vn/media/18826/3-giuong-tang-dep-noi-that-manh-he.jpg?width=700&height=700",
+      "description": "Giường tầng cao cấp",
+      "idCate": "3"
+    },
+    {
+      "description": "Bàn ăn cao cấp đẹp với giá cả phải chăng",
+      "id": "3",
+      "idCate": "2",
+      "image": "https://bachma.vn/wp-content/uploads/2020/08/ban-an-mogen.jpg",
+      "name": "Bàn ăn 01\n",
+      "price": 50
+    },
+    {
+      "id": "4",
+      "description": "a",
+      "idCate": "1",
+      "image": "https://noithatami.com/wp-content/uploads/2020/11/1-2.jpg",
+      "name": "a",
+      "price": 1000
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "User",
+      "email": "user@gmail.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ]
+}
